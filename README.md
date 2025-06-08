@@ -1,10 +1,10 @@
 # Exotel Voice Setup
 
-- Create a Exotel App [Manage -> App Bazaar](https://my.exotel.com/axzorait1/apps)
+- Create a Exotel App [Manage -> App Bazaar]
 
-- Assign a phone number to the app [Manage -> Exo Phones](https://my.exotel.com/axzorait1/numbers)
+- Assign a phone number to the app [Manage -> Exo Phones]
 
-- Check call recoding and call logs [Calls -> Inbox](https://my.exotel.com/axzorait1/)
+- Check call recording and call logs [Calls -> Inbox]
 
 - Voice Applets setup video [Link](https://www.loom.com/share/ae049b2f8c654c3cb983fbfaf58dadbe)
 
@@ -63,3 +63,9 @@
 - Voice Streaming Sample Repo [Link](https://github.com/exotel/voice-streaming/tree/main)
 
 - We can use [PyAudio](https://pypi.org/project/PyAudio/) library for audio operations.
+
+# Pending 
+
+- Send media chunks back to exotel
+
+- Create an audio file received chunks from exotel
