@@ -64,6 +64,10 @@
 
 - We can use [PyAudio](https://pypi.org/project/PyAudio/) library for audio operations.
 
+- We can use postman to test our websocket endpoint
+
+  ![postman](./postman.png)
+
 # Pending 
 
 - Send media chunks back to exotel
