@@ -56,7 +56,7 @@
 
 - Now call to your exotel number and it will connect to the voice applet.
 
-- Sample server [logs](./server.log)
+- Sample server [logs](./sample.log)
 
 # Bonus
 
